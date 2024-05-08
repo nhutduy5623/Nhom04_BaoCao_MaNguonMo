@@ -17,6 +17,7 @@ Game Bomb Online is a bomb-placement game with intense and challenging gameplay 
    ```sh
      git clone https://github.com/nhutduy5623/Nhom04_BaoCao_MaNguonMo.git
    ```
+5. Unzip the downloaded file.
 ### Run the game
 #### Poker Online
 1. Run the file client1.exe (or run with the terminal command 'py client1.py').
