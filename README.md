@@ -1,6 +1,6 @@
 ## Introduce
-Website Introduce: https://nhutduy5623.github.io/Nhom4_MaNguonMo_WebsiteReview/index.html
-Overleaf Report: https://www.overleaf.com/read/dmsjfmcsvjpb#44ae1b
+- Website Introduce: https://nhutduy5623.github.io/Nhom4_MaNguonMo_WebsiteReview/index.html
+- Overleaf Report: https://www.overleaf.com/read/dmsjfmcsvjpb#44ae1b
 ### Game Poker Online
 Game Poker Online is an online card game based on the rules of traditional poker. Players can join tables with other players from around the world and showcase their strategic skills in thrilling poker matches.
 ### Game Bomb Bang Online
